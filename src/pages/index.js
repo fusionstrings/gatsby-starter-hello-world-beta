@@ -1,5 +1,7 @@
 import React from "react"
 
-export default function Home() {
-  return <div>Hello world!</div>
+function Home() {
+  return <div>Hello Gatsby 4.0!</div>
 }
+
+export default Home;
